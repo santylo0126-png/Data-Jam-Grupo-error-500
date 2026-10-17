@@ -15,7 +15,7 @@ Tablero de análisis de **delitos por localidad y año** en Bogotá, junto con l
 |---|---|
 | ![Página 1](assets/pagina-1.png) | ![Página 2](assets/pagina-2.png) |
 
-**Demo web:** [ENLACE A LA DEMO]
+**Demo web:** (outputs/Data Jam Alcaldia 2026.pbix)
 
 ---
 
