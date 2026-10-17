@@ -13,7 +13,7 @@ Tablero de análisis de **delitos por localidad y año** en Bogotá, junto con l
 
 | Página 1 · Delitos por localidad y año | Página 2 · CAI y estaciones |
 |---|---|
-| ![Página 1](assets/pagina-1.png) | ![Página 2](assets/pagina-2.png) |
+| ![Página 1](data/assets/pagina1.jpeg) | ![Página 2](data/assets/pagina2.jpeg) |
 
 **Demo web:** (outputs/Data Jam Alcaldia 2026.pbix)
 
