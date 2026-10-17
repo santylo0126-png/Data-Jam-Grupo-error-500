@@ -35,8 +35,6 @@ Tablero de análisis de **delitos por localidad y año** en Bogotá, junto con l
 └── assets/
     ├── fondo.png                   # Fondo de Bogotá desenfocado
     ├── logo-bogota.png             # Logo
-    ├── pagina-1.png                # Capturas del tablero
-    └── pagina-2.png
 ```
 
 > Ajusta los nombres y rutas si tu carpeta es distinta.
