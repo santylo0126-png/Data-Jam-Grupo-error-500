@@ -146,8 +146,9 @@ Abre `web/data_jam_2026.html` con doble clic en cualquier navegador, o publícal
 
 | Nombre | Rol |
 |---|---|
-| [NOMBRE] | [ROL] |
-| [NOMBRE] | [ROL] |
+| [Santiago Lopez] | [Programador web y diseñador] |
+| [Juan Esteban Carrasco] | [Analitico de datos] |
+| [Miguel Ruiz] | [Analista de datos] |
 
 ## Licencia
 
